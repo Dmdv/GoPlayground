@@ -1,3 +1,3 @@
 # GoPlayground
 
-Here algorithms and data stuctures in GO
+Here I place algorithms and data stuctures in GO
