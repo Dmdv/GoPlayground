@@ -1,12 +1,12 @@
 package main
 
 import (
-	"fmt"
 	"database/sql"
-	_ "github.com/mattn/go-adodb"
+	"fmt"
 	"os"
-	"github.com/go-ole/go-ole"
 
+	"github.com/go-ole/go-ole"
+	_ "github.com/mattn/go-adodb"
 )
 
 func main() {
