@@ -22,16 +22,15 @@ var (
 	New loggerFactory
 )
 
-const port int = 9001
+const port int = 9002
 
 func main() {
 
-	msg := fmt.Sprintf("Server has started on port: %d\r\n", port)
-	log.Print(msg)
+	log.Printf("Server has started on port: %d\r\n", port)
 
 	http.HandleFunc("/", homePage)
 
-	if err := http.ListenAndServe(":9001", nil); err != nil {
+	if err := http.ListenAndServe(fmt.Sprintf(":%d", port), nil); err != nil {
 		log.Fatal("Fail to start server")
 	}
 }

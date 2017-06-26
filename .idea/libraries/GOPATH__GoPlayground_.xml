@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GoPlayground&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.vscode" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../os_test" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld" />
+      <root url="file://$PROJECT_DIR$/../Playground" />
+      <root url="file://$PROJECT_DIR$/../Pointers" />
+      <root url="file://$PROJECT_DIR$/../shell" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../MarkBates" />
+      <root url="file://$PROJECT_DIR$/../Slices" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.vscode" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../os_test" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld" />
+      <root url="file://$PROJECT_DIR$/../Playground" />
+      <root url="file://$PROJECT_DIR$/../Pointers" />
+      <root url="file://$PROJECT_DIR$/../shell" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../MarkBates" />
+      <root url="file://$PROJECT_DIR$/../Slices" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
