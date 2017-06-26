@@ -10,6 +10,8 @@
       <root url="file://$PROJECT_DIR$/../Pointers" />
       <root url="file://$PROJECT_DIR$/../shell" />
       <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../mylg" />
       <root url="file://$PROJECT_DIR$/../MarkBates" />
       <root url="file://$PROJECT_DIR$/../Slices" />
     </CLASSES>
@@ -23,6 +25,8 @@
       <root url="file://$PROJECT_DIR$/../Pointers" />
       <root url="file://$PROJECT_DIR$/../shell" />
       <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../mylg" />
       <root url="file://$PROJECT_DIR$/../MarkBates" />
       <root url="file://$PROJECT_DIR$/../Slices" />
     </SOURCES>
